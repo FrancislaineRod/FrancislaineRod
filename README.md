@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 
 <div style="align="center"">
   <a href="https://github.com/FrancislaineRod">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=FrancislaineRod&show_icons=true&bg_color=0D1117&border_color=FF1493&title_color=FF1493&text_color=C3D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true" />
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancislaineRod&layout=compact&langs_count=10&bg_color=0D1117&border_color=FF1493&title_color=FF1493&text_color=C3D1D9"/>
+  <img  height="169em" src="https://github-readme-stats.vercel.app/api?username=FrancislaineRod&show_icons=true&bg_color=0D1117&border_color=FF1493&title_color=FF1493&text_color=C3D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true" />
+  <img height="169em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancislaineRod&layout=compact&langs_count=10&bg_color=0D1117&border_color=FF1493&title_color=FF1493&text_color=C3D1D9"/>
 </div>
 
 <div style="display: inline_block"><br>
