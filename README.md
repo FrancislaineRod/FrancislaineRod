@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning java and javaScript
+- 🌱 Eu estou estudando java, javaScript, html,css e começando python
 - 😄 Pronouns: ela/dela
 
 <div align="center">
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
           
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+  <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> criar o meu gift para colocar-->
+</div> 
   
   ##
  
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <a href = "mailto:frandrodrigues2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/francislaine-rodrigues-009915ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+  <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) ajustar a cobrinha para colocar -->
  
 </div>
 
