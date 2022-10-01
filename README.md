@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 Eu estou estudando java, javaScript, html,css e começando python
 - 😄 Pronouns: ela/dela
 
-<div align="center">
+<div style="display: inline-block">
   <a href="https://github.com/FrancislaineRod">
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=FrancislaineRod&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancislaineRod&layout=compact&langs_count=7&theme=dracula"/>
